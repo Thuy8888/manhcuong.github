@@ -1,0 +1,60 @@
+.menu_Bar {
+    border-radius: 0;
+    background: #222326;
+    margin-bottom: 5px;
+}
+
+.navbar {
+    border: none;
+}
+
+.dropdown-menu {
+    padding: 0;
+    border-color: #222326;
+}
+
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:focus,
+.navbar-inverse .navbar-nav>.open>a:hover {
+    background-color: #222326;
+}
+
+.navbar-inverse .navbar-nav li a {
+    color: white;
+    background-color: #222326;
+    border: none;
+    line-height: 25px;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+    color: white;
+    background: #6A6967;
+}
+
+.menu_Bar .collapse {
+    padding: 0;
+}
+
+
+/* thanh Search */
+
+.form_R {
+    position: relative;
+}
+
+.form_R .btn-default {
+    border: 0;
+    position: absolute;
+    top: 0px;
+    right: 15px;
+}
+
+.form_R button:hover,
+.form_R button:focus {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.dropdown_menu li a {
+    color: black;
+}

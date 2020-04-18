@@ -1,0 +1,29 @@
+@media(max-width:767px) {
+    header {
+        text-align: center;
+    }
+    /* .container {
+        width: 100%; */
+    .menu_Bar .collapse {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .form_R .btn-default {
+        top: 10px;
+    }
+    footer .site-map,
+    .product,
+    .fanpage {
+        padding-top: 0;
+    }
+    footer .footer-1 {
+        padding: 0;
+        padding-top: 20px;
+    }
+    .carousel {
+        display: none;
+    }
+    .home_products .text-right {
+        /* display: none; */
+    }
+}

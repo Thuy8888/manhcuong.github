@@ -1,0 +1,239 @@
+    section .title_left {
+        background-color: #3B82AC;
+        padding: 8px;
+        /* text-align: center; */
+        color: white;
+        padding-left: 20px;
+    }
+    
+    section .title_left .fa {
+        margin-right: 15px;
+    }
+    
+    section .menu_category,
+    section .item_best_sel {
+        page-break-after: #F2F0F1;
+    }
+    
+    section .item_best_sel li {
+        border-bottom: 1px solid #D9D7D8;
+    }
+    
+    section .menu_category ul,
+    section .item_best_sel ul {
+        list-style: none;
+        text-transform: uppercase;
+    }
+    
+    section .menu_category ul a li,
+    section .item_best_sel ul li a {
+        padding: 10px 20px;
+        color: #222326;
+        display: block;
+        text-decoration: none;
+    }
+    
+    section .item_best_sel ul li a {
+        padding: 10px;
+    }
+    
+    section .menu_category ul a {
+        text-decoration: none;
+    }
+    
+    section .menu_category ul li,
+    section .item_best_sel ul {
+        border-bottom: 1px solid white;
+        background-color: #F2F0F1;
+    }
+    
+    section .menu_category ul a li:hover,
+    section .item_best_sel ul li a:hover {
+        background: #464A51;
+        color: white;
+        text-decoration: none;
+    }
+    
+    section .item_best_sel ul li a h3 {
+        font-size: 13px;
+        margin-bottom: 0px;
+    }
+    
+    .my_slider .carousel-caption a p {
+        text-transform: uppercase;
+        font-size: 25px;
+        color: white;
+        text-align: left;
+        font-weight: 600;
+        text-shadow: 1px 1px 1px black;
+    }
+    
+    .my_slider .carousel-control,
+    .my_slider .carousel-control:hover {
+        background-image: none;
+    }
+    
+    .my_slider .carousel-control .glyphicon-chevron-left {
+        color: #444444;
+        font-size: 50px;
+        left: 15px;
+    }
+    
+    .my_slider .carousel-control .glyphicon-chevron-right {
+        color: #444444;
+        font-size: 50px;
+        left: 35px;
+    }
+    
+    .my_slider .carousel-control .glyphicon {
+        font-size: 25px;
+    }
+    
+    .my_info h1 {
+        text-transform: uppercase;
+        font-size: 30px;
+        color: red;
+        text-align: center;
+    }
+    
+    .my_info p {
+        line-height: 25px;
+    }
+    
+    .home_products .title {
+        background: url(../img/images/MCh06.png) no-repeat, center;
+        background-size: cover;
+        margin-bottom: 25px;
+    }
+    
+    .home_products .title h3 {
+        text-transform: uppercase;
+        color: white;
+        font-size: 17px;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 15px 20px;
+    }
+    
+    .home_products .title a {
+        color: white;
+        padding: 15px;
+    }
+    
+    .home_products .title a:hover {
+        color: #3B82AC;
+    }
+    
+    .home_products .products .item {
+        background: #222326;
+        margin-bottom: 25px;
+    }
+    
+    .home_products .products .item:hover {
+        background: #3B82AC;
+    }
+    
+    .home_products .products .item a {
+        color: white;
+    }
+    
+    .home_products .products .item h4 {
+        text-align: center;
+        padding: 5px 0px 15px 0px;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+    
+    .text-right span {
+        color: white;
+    }
+    
+    .text-right {
+        padding: 10px;
+    }
+    /* tin tức: */
+    
+    .category_news p {
+        padding: 0px 15px;
+        text-align: justify;
+    }
+    /* .category_news .products:hover {
+        display: none;
+    } */
+    
+    .category_news .products {
+        height: 120px;
+    }
+    
+    .category_news .products .item {
+        background-color: transparent;
+        border: 1px solid #F2F0F1;
+    }
+    
+    .category_news .products .item a {
+        color: #444444;
+        font-weight: 600;
+        font-size: 24px;
+    }
+    
+    .category_news .title_news {
+        padding-top: 10px;
+    }
+    
+    .category_news .products .item a:hover {
+        color: #3B82AC;
+    }
+    
+    .category_news .products .item:hover {
+        background-color: transparent;
+        color: #444444;
+    }
+    
+    .category_news .products .products .chitietsp {
+        padding: 10px;
+    }
+    
+    .text_right {
+        text-align: justify;
+    }
+    
+    .products .text_right h2 {
+        color: #3B82AC;
+    }
+    
+    .form-soluong {
+        border-color: transparent;
+        padding: 0;
+    }
+    
+    .number_card {
+        width: 250px;
+        /* Làm cho hình ảnh 0 là chìm xuống, 1 là nổi lên */
+        z-index: 0;
+    }
+    /* chi tiết */
+    
+    .nav-tabs {
+        margin: 10px;
+    }
+    
+    .tab-content p {
+        line-height: 30px;
+        padding: 0 15px;
+        text-align: justify;
+    }
+    
+    .para_detail {
+        width: 600px;
+        text-align: center;
+        margin-left: 140px;
+        margin-top: 20px;
+    }
+    
+    .para_detail tr td {
+        border: 1px solid #464A51;
+    }
+    
+    #menu1 {
+        text-align: center;
+    }

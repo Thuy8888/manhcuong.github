@@ -1,0 +1,37 @@
+header .top_H {
+    background: #3b84b0;
+    color: white;
+    padding: 5px;
+    /* tu dong viet hoa */
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+header .top_H p {
+    margin: 0;
+}
+
+.header .top_H .container span {
+    float: right;
+}
+
+header .bot_H h2 {
+    text-transform: uppercase;
+    margin: 0;
+    padding: 10px 0;
+    text-shadow: 1px 1px 1px black;
+}
+
+header .bot_H {
+    background: url('../img/images/header_02.png');
+    background-repeat: no-repeat;
+    color: white;
+    /* cover tam hình khong bị lặp lại */
+    background-size: cover;
+    /* tự dộng thu nhỏ */
+    background-position: center;
+}
+
+header .bot_H p {
+    margin: 5px 0 0 0;
+}

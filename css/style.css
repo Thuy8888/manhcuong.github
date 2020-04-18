@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 18;
+    /* font-family: 'Open Sans Extrabold'; */
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.padding-top-item {
+    padding-top: 10px;
+}
+
+.tdbold {
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Open Sans Extrabold';
+    src: url(../font/OpenSansCondensed-Light.ttf);
+}

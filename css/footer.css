@@ -1,0 +1,123 @@
+.main-footer {
+    display: flex;
+}
+
+footer {
+    background: #222327;
+}
+
+footer .footer-1 h3 {
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+
+footer h4 {
+    margin-top: 20px;
+    padding-bottom: 12px;
+}
+
+footer .footer-1 {
+    color: white;
+    padding: 20px 0;
+    padding-right: 20px;
+}
+
+footer .footer-1 p {
+    line-height: 25px;
+}
+
+footer .footer-1 .fa {
+    margin: 0;
+    font-size: 20px;
+    text-align: center;
+}
+
+footer .main-footer .info p {
+    font-size: 13px;
+    padding: 20px;
+}
+
+footer .footer-1 .icon {
+    list-style: none;
+    display: flex;
+}
+
+footer .main-footer .infomation h3 a {
+    color: white;
+}
+
+footer .main-footer .infomation .icon li a {
+    color: white;
+    padding: 8px;
+}
+
+.fa-map-marker,
+.fa-mobile,
+.fa-envelope {
+    color: yellow;
+    width: 10%;
+    font-size: 50px;
+}
+
+footer .site-map {
+    color: white;
+    padding: 20px 0;
+}
+
+footer .site-map ul li a {
+    text-transform: uppercase;
+    color: white;
+}
+
+footer .site-map ul li {
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer .site-map ul li:before,
+footer .product ul li:before {
+    content: "\2022";
+    color: yellow;
+    display: inline-block;
+    width: 1em;
+}
+
+footer .product {
+    color: white;
+    padding: 20px 0;
+}
+
+footer .product ul li a {
+    text-transform: uppercase;
+    color: white;
+}
+
+footer .product ul li {
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+footer .fanpage {
+    color: white;
+    padding: 20px 0;
+}
+
+footer .icon {
+    text-align: center;
+}
+
+footer .icon li {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.copyright {
+    background-color: #1B1C20;
+    height: 60px;
+    padding: 20px;
+    color: white;
+}
